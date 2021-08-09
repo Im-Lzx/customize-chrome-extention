@@ -1,11 +1,12 @@
 <!--
  * @Author: your name
  * @Date: 2021-08-09 11:20:53
- * @LastEditTime: 2021-08-09 14:14:53
+ * @LastEditTime: 2021-08-09 14:19:00
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /chromeExtentionDemo/README.md
 -->
+
 
 
 > AutoPlay 使用方法介绍
@@ -23,4 +24,9 @@
 #### 4、按图所示加载刚才解压的文件夹
 
 ![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f7c99f00de1427784f45fdd512b5d55~tplv-k3u1fbpfcp-watermark.image)
+
+
+
+
+**特别说明：此插件仅限chrome插件开发学习使用。**
 
